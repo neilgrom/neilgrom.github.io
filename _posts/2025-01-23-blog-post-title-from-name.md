@@ -34,3 +34,7 @@ Well that's all for now, but I hope that you have a better idea of what we're bo
 
 -nhg
 
+### Tags:
+{% for tag in page.tags %}
+- [{{ tag }}](/tags/{{ tag }})
+{% endfor %}
