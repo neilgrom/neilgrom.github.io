@@ -1,15 +1,12 @@
 ---
 layout: default
 ---
-<h1>Posts Tagged: {{ page.tag }}</h1>
+
+<h1>Posts tagged with "{{ page.tag }}"</h1>
 
 <ul>
-  {% for post in site.posts %}
-    {% if post.tags contains page.tag %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small>({{ post.date | date: "%B %d, %Y" }})</small>
-    </li>
-    {% endif %}
+  {% assign tagged_posts = site.posts | where: "tags", page.tag %}
+  {% for post in tagged_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
