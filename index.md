@@ -1,9 +1,2 @@
-Welcome to my brain! 
-
-I should say, welcome to my creative hub of learning, 
-
-growing, and dicsussing topics I find interesting. Topics range 
-
-from cooking, to travel, finances, and life updates as I use this 
-
-as a jumping off point for my future projects and inspiration
+Welcome to my creative hub of learning and self-growth. Here you'll find everything I'm interested in talking about, from 
+cooking, to travel, finances, life updates, and anecdotes. Only real structure is that it's coming from your truly.
