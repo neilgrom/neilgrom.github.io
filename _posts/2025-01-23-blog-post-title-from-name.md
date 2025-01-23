@@ -8,9 +8,11 @@ One image that comes to mind related to this is a sort-of picturesque movie scen
 
 "**I know.**"
 
+![Alt Text](https://example.com/image.png)
+
 That sort of weird, calming, yet troubling comment. It seemed foreign, or almost rude to me the first time I envisioned something like this. "You shoulda told him earlier!!! Why'd we just spend an hour watching them got through all that mess just to get here?" But after it happened to me, **I understand it now**. Leaving school, I got my degree in Civil Engineering, moved halfway across the country, restarted my life and realized I _hated_ my job. And while that is dramatic, I didn't hate it because I hated every minute I spent working there, I hated it because it was boring and I didn't like the work itself. The points I despised the most were the ones I spent what felt like 8 hours a day doing. After realizing I couldn't do it anymore, I started bulking up my resume, sending out applications, and bringing the topic up in front of whoever would listen. When I expressed this frustration and apathy on a family call, my brother made me feel the same way. 
 
-"I was wondering when you were gonna figure that out". 
+> "I was wondering when you were gonna figure that out". 
 
 There it was. Those words that 3 years ago I didn't understand, I finally get now. Having put my head down, applied to jobs, and found some competitive offers, I landed the job I have now ~~teaching Amish people how to use phones~~ as a Software Consultant. It's the journey to get to this destination that has made the aforementioned scenario so meaningful. Because Matt could've told me that he knew I wasn't going to make it very long as an engineer, but what would that have done? It might've spurred my ego to try and prove him wrong, or moved out of engineering so fast I lacked the passion to pursue something different.
 
@@ -20,8 +22,8 @@ This blog will cover all of my different curiousities and funny stories along wi
 
 You can tell it's going to be a lil _tipsy_ in this b*tch. 
 
-I did want to give credit to the person who I found this template from to begin building the website from a similar project by a user called Chad Baldwin. Go give his page a visit if you're curious about how to get started on your own blog.
-https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
+I did want to give credit to the person who I found this template from to begin building the website from a similar project by a user called [Chad Baldwin](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). Go give his page a visit if you're curious about how to get started on your own blog.
+
 
 Well that's all for now, but I hope that you have a better idea of what we're both getting ourselves into here.
 
