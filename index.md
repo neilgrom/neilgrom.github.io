@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Welcome to my brain! Or I guess I should say, 
 
-Maybe say a some things about yourself.
+welcome to my creative hub of learning, growing, and dicsussing topics I find interesting.
 
-Or maybe what you plan to blog about.
+Topics range from cooking, to travel, finances, and life updates as I use this as a 
+
+jumping off point for my future projects and inspiration
