@@ -1,4 +1,4 @@
-## Why Are You Doing This?
+## Getting Started: Why Am I Doing This?
 
 If you're reading this you've stumbled your way onto my passion project. I'm currently typing this from a hotel in London trying to wrap my head around shoving all the context I can into your head about why I'm doing this thing anyway.
 
