@@ -10,5 +10,6 @@ Here you'll find everything I'm interested in talking about:
 - [Life Updates](#)
 - [Anecdotes](#)
 - [Guitar](#)
+- [Board Games](#)
 
 
