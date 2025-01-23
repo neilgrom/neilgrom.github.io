@@ -8,7 +8,7 @@ One image that comes to mind related to this is a sort-of picturesque movie scen
 
 "**I know.**"
 
-![Alt Text](https://example.com/image.png)
+![Shifumania]([https://example.com/image.png](https://images.hobbydb.com/processed_uploads/subject_photo/subject_photo/image/11367/1456957146-22006-0451/Screen_20Shot_202016-03-02_20at_203.18.18_20PM.png))
 
 That sort of weird, calming, yet troubling comment. It seemed foreign, or almost rude to me the first time I envisioned something like this. "You shoulda told him earlier!!! Why'd we just spend an hour watching them got through all that mess just to get here?" But after it happened to me, **I understand it now**. Leaving school, I got my degree in Civil Engineering, moved halfway across the country, restarted my life and realized I _hated_ my job. And while that is dramatic, I didn't hate it because I hated every minute I spent working there, I hated it because it was boring and I didn't like the work itself. The points I despised the most were the ones I spent what felt like 8 hours a day doing. After realizing I couldn't do it anymore, I started bulking up my resume, sending out applications, and bringing the topic up in front of whoever would listen. When I expressed this frustration and apathy on a family call, my brother made me feel the same way. 
 
