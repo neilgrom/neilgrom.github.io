@@ -18,7 +18,7 @@ permalink: /changelog/
 - Resources Section for other information/untagged things
   
 ## Website Goals/General Housekeeping
--Look at learning SEO To Utilize Tags
--Streamline blog creation process and try and make as dynamic as possible so I'm not running through 30 pages everytime I need to do an update
--Streamline backend folder structure
--Improve Home Screen Flow
+- Look at learning SEO To Utilize Tags
+- Streamline blog creation process and try and make as dynamic as possible so I'm not running through 30 pages everytime I need to do an update
+- Streamline backend folder structure
+- Improve Home Screen Flow
