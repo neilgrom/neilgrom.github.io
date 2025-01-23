@@ -1,10 +1,11 @@
 ## Getting Started: Why Am I Doing This?
+
 ---
 title: "Getting Started: Why Am I Doing This?"
 date: 2025-01-23
-tags:
-  - Cooking
-  - Travel
+tags: [Cooking, Travel]
+---
+
 
 If you're reading this you've stumbled your way onto my passion project. I'm currently typing this from a hotel in London trying to wrap my head around shoving all the context I can into your head about why I'm doing this thing anyway.
 
@@ -32,9 +33,4 @@ I did want to give credit to the person who I found this template from to begin 
 Well that's all for now, but I hope that you have a better idea of what we're both getting ourselves into here. What are your thoughts about how passionate you have to be to pursue things for your own personal growth?
 
 -nhg
----
-**Tags:**
 
-{% for tag in page.tags %}
-- [{{ tag }}](/tags/{{ tag }}/)
-{% endfor %}
