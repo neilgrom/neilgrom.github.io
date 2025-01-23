@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: home
 title: "Post Title"
 date: 2025-01-23
 ---
