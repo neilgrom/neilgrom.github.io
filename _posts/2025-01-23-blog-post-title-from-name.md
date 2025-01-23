@@ -18,9 +18,7 @@ There it was. Those words delivered by a sort of Master Shifu to an eagerly conf
 
 The reason for that whole schpiel is because this example made me realize that I need to want to explore the things I'm doing. Finding natural connections to things that intrigue me, maybe like what engineering was for a lot of my colleagues that I didn't understand. **I'm curious for the first time in my life.**
 
-This blog will cover all of my different curiousities and funny stories along with the learning along the way. I want this blog to feel like my creative dumping ground for future reference. While it's still early, I want to do topics on the things that I love, such as cooking, guitar, board games, travel, work, finances, funny stories, writing, etc. I'll probably have a sort of manifesto/working documents with topics and ideas and future content or a sort of table of contents for all the technical improvements I'd like to make to the GitHub page if you're ever curious for a sneak peak.
-
-You can tell it's going to be a lil _tipsy_ in this b*tch. 
+This blog is my creative dumping ground, a space for me to explore my curiosities and share the funny, messy, and meaningful stories that come with them. I’ll be writing about everything I love—cooking, guitar, board games, travel, work, finances, and whatever else grabs my attention. 
 
 I did want to give credit to the person who I found this template from to begin building the website from a similar project by a user called [Chad Baldwin](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). Go give his page a visit if you're curious about how to get started on your own blog.
 
