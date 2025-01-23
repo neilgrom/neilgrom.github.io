@@ -10,5 +10,4 @@ Here you'll find everything I'm interested in talking about:
 - [Anecdotes](#)
 - [Guitar](#)
 - [Food](#)
-- [Life Hacks](#)
 
