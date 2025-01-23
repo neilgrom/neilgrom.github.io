@@ -6,8 +6,9 @@ Here you'll find everything I'm interested in talking about:
 - [Cooking](#)
 - [Travel](#)
 - [Finances](#)
+- [Food](#)
 - [Life Updates](#)
 - [Anecdotes](#)
 - [Guitar](#)
-- [Food](#)
+
 
