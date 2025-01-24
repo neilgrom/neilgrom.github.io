@@ -4,7 +4,7 @@ title: "Change Log / Website Goals"
 permalink: /changelog/
 ---
 ## Change Log
--**1/23/2025**: Began Website Design, attempted first pass at hyperlink insertion, created first post
+-**1/23/2025**: Began Website Design, attempted first pass at hyperlink insertion, created first post. Blew up website on accident, reset it thanks to existing data because I am a silly little boy who knows nothing of websites (yet)... was able to restore from a local copy because my commits are a mess for now. Added changelog (didn't see that one coming did you)
 
 ## Functionality Improvements and Software Goals
 - Get Linked Tag functionality to work + Sort
