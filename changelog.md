@@ -1,5 +1,5 @@
 ---
-layout: changelog
+layout: post
 title: "Change Log"
 permalink: /changelog/
 ---
