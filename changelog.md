@@ -7,10 +7,13 @@ permalink: /changelog/
 -**1/23/2025**: Began Website Design, attempted first pass at hyperlink insertion, created first post. Blew up website on accident, reset it thanks to existing data because I am a silly little boy who knows nothing of websites (yet)... was able to restore from a local copy because my commits are a mess for now. Added changelog (didn't see that one coming did you)
 
 ## Functionality Improvements and Software Goals
+- ~~Create Change Log~~ 1/23/2025
 - Get Linked Tag functionality to work + Sort
 - Add a "Count" of how many posts are in each menu by link
 - Add a "Return to Home" button
-- Insert a resume section
+- Insert a resume section + Link
+- Optimize Homescreen Navigation Bar
+- Modify layout of page setup, guessing this is for mobile users currently
 - Figure out how to overlay pictures into main page or in background
 - Look at inserting background music like myspace (lol this would be entertaining)
 - Inserts into pages, reassigning sizes, youtube/gif links
