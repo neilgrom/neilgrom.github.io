@@ -1,0 +1,18 @@
+<!-- _layouts/changelog.html -->
+---
+layout: default
+---
+
+<article class="changelog-page">
+  <header class="changelog-header">
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="changelog-content">
+    {{ content }}
+  </div>
+
+  <footer class="changelog-footer">
+    <p>Last updated: {{ page.date | date: "%b %-d, %Y" }}</p>
+  </footer>
+</article>
