@@ -1,12 +1,5 @@
 ## Getting Started: Why Am I Doing This?
 
----
-title: "Getting Started: Why Am I Doing This?"
-date: 2025-01-23
-tags: [Cooking, Travel]
----
-
-
 If you're reading this you've stumbled your way onto my passion project. I'm currently typing this from a hotel in London trying to wrap my head around shoving all the context I can into your head about why I'm doing this thing anyway.
 
 The most obvious/apparent reason is timing. With New Year's around the corner and closing my first big chapter of my professional career, I got thinking about change. Specifically, why people don't finish these resolutions if they care enough to make them? While I've never been great at New Year's resolutions specifically, any ones I've made (typically going to the gym more) I always fail to follow through on. What did work was deciding that in July of this past year, I needed to get back in the gym again. Without my chaotic day to day travelling for my job and for fun, I had a stable platform to get my mind and body right. I highlight this because it expresses me, and how I need to drive change by doing things _I_ want to do for myself.
@@ -33,8 +26,3 @@ I did want to give credit to the person who I found this template from to begin 
 Well that's all for now, but I hope that you have a better idea of what we're both getting ourselves into here. What are your thoughts about how passionate you have to be to pursue things for your own personal growth?
 
 -nhg
-
-### Tags:
-{% for tag in page.tags %}
-- [{{ tag }}](/tags/{{ tag }})
-{% endfor %}
