@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Change Log / Website Goals"
+layout: changelog
+title: "Change Log"
 permalink: /changelog/
 ---
 ## Change Log
