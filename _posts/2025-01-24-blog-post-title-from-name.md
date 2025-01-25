@@ -4,7 +4,9 @@ date: 2025-01-24
 tags: ["anecdotes", "travel"]
 ---
 
-## One of my greatest strengths in terms of travel - if not life - is my ability to fall asleep pretty much on demand. You can thank the sleep apnea for that one mostly, but I mean just in general.
+## Why Long-Haul Airline Food is Timed Terribly
+
+One of my greatest strengths in terms of travel - if not life - is my ability to fall asleep pretty much on demand. You can thank the sleep apnea for that one mostly, but I mean just in general.
 
 If I couldn't sleep on planes I think this job and my current lifestyle would be way more exhausting. Anywho, so I get on the plane today, and after finalizing my strategy over my last trip, I know pretty much exactly what to do in terms of getting on board, with the priority being getting some sleep.
 
