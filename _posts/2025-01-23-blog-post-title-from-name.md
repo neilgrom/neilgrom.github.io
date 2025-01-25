@@ -1,10 +1,10 @@
 ---
-title: "Why Do I Blog??"
+title: "Why Do I Blog?"
 date: 2025-01-23
 tags: ["anecdotes", "travel"]
 ---
 
-## Let's do this thing.
+# Why Do I Blog?
 
 If you're reading this you've stumbled your way onto my passion project. I'm currently typing this from a hotel in London trying to wrap my head around shoving all the context I can into your head about why I'm doing this thing anyway.
 
