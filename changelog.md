@@ -8,6 +8,7 @@ permalink: /changelog/
 
 ## Functionality Improvements and Software Goals
 - ~~Create Change Log~~ 1/23/2025
+- ~~Get Blog Archive filtering multiple items~~ 1/24/2025
 - Get Linked Tag functionality to work + Sort
 - Add a "Count" of how many posts are in each menu by link
 - Add a "Return to Home" button
