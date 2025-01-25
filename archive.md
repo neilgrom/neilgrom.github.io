@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Blog Archive
 ---
 
 <h1>Blog Archive</h1>
