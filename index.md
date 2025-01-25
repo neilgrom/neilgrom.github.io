@@ -6,5 +6,5 @@ cooking, to travel, finances, life updates, and anecdotes. Only real structure i
 - [Finances](({{ "/tags/finance/" | absolute_url }}))
 - [Food](({{ "/tags/food/" | absolute_url }}))
 - [Life Updates](({{ "/tags/life-updates/" | absolute_url }}))
-- [Anecdotes](({{ "/tags/anecdotes/" | absolute_url }}))
+- [anecdotes]({{ "/tags/anecdotes/" | relative_url }})
 - [Guitar](({{ "/tags/guitar/" | absolute_url }}))
