@@ -4,7 +4,7 @@ date: 2025-01-24
 tags: ["anecdotes", "travel"]
 ---
 
-## Why Long-Haul Airline Food is Timed Terribly
+## 
 
 One of my greatest strengths in terms of travel - if not life - is my ability to fall asleep pretty much on demand. You can thank the sleep apnea for that one mostly, but I mean just in general. You can imagine where I'm going with this in terms of travel huh?
 
@@ -12,16 +12,16 @@ If I couldn't sleep on planes I think this job and my current lifestyle would be
 
 Without this precious sleep, I pose an even greater threat driving on the other side of the road, which was known very well by the 2023 Mercedes Benz I rented the first time I was in the UK. 
 
-_"Yeaaaaaaah those rims aren't gonna get much worse than that." _
+>Yeaaaaaaah those rims aren't gonna get much worse than that.
+-Me, after hitting a center island that snuck up on me
 
-Normally I can sleep for the first hour or two of any flight.
-Now these dang meal service times. I, having taken my melatonin on the way back, slept for the first 2 hours of the flight. What a grave mistake indeed, as my punishment was a lack of sustinance provided for me as a meal. I spent the next 3 hours somewhat ruing my decision, and I spent at least 2 hours waiting for food, scared of falling asleep and missing it again.
+Normally I can sleep for the first hour or two of any flight, and I proved it today. I, having taken my melatonin for my return trip from LHR -> JFK (-> IND), slept for the first 2 hours of the flight. What a grave mistake indeed, as my punishment was a lack of sustinance provided for me as a meal. I spent the next 3 hours somewhat ruing my decision, and at least 2 hours waiting for food, scared of falling asleep and missing it again.
 
 While the truffle mac and cheese was indeed bangin' (shout out Virgin Atlantic for the hookups), it felt like my entire experience of the day was centered around eating and that I couldn't sleep more for the fear of missing food for the second time.
 
-Despite this unforgivable crime, the remainder of the trip back was fairly calm. Minus accidentally booking the wrong hotel near Heathrow for the night prior. I mean seriously, who would put TWO Sheraton's within 2 miles of each other BOTH called Sheraton (Skyline) Heathrow? 
+Despite this unforgivable crime, the remainder of the trip back was fairly calm. Minus accidentally booking the wrong hotel near Heathrow for the night prior. I mean seriously, who would put TWO Sheraton's within 2 miles of each other BOTH called Sheraton Heathrow? My bad, should've picked up on the "Sheraton Heathrow Hotel" and "Sheraton **SKYLINE** Hotel London Heathrow. Evevn ruined my strategy of taking the rental car shuttle instead of ubering, which would've been a 10min walk if I had booked the correct hotel. There goes $30 for the Ubers I had to call as a result over some stupid naming choices.
 
-Now that I'm back in Indy for ***checks watch*** a total of 36 hours, I'll be frantically cleaning, relaxing, and prepping to fly out to Baltimore on Sunday for some more work.
+With a 5 hour time difference to overcome, I'm back in Indy for ***checks watch*** 36 hours. I'll be frantically cleaning, relaxing, and prepping to fly out to Baltimore on Sunday for some more work.
 
 It appears that the grind doesn't stop.
 
