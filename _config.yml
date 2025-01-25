@@ -41,6 +41,10 @@ collections:
   posts:
     output: true
 
+collections:
+  tags:
+    output: true
+
 defaults:
   - scope:
       path: ""
