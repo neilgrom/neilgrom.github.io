@@ -75,6 +75,7 @@ SELECT *
 FROM table1 t1  
 LEFT JOIN table2 t2 ON t1.ordernum = t2.ordernum  
 LEFT JOIN table3 t3 ON t1.productcode = t3.productcode;
+```
 
 I originally thought, "What if I could type a customer name and have my computer default me to that customer's splash page in a chrome tab?" So I got curious, got exploring, and realized how easy it would be to setup a bunch of shortcuts to do that AND shorthand automation for pulling important code/information in flash.
 
