@@ -3,52 +3,64 @@ title: "Organization and Automation for Working - Tips and Tricks"
 date: 2025-01-31
 tags: ["anecdotes", "travel"]
 ---
-Hey everybody! I'm back, and for the first time in a while, seems like my life has settled down for a few days. Was in Baltimore Monday/Tuesday for my project which is nice that's over, I was definitely feeling bummed out over my couple days I'd spent there coming off the back of the choatic travel with the month long trip before.
+Hey everybody! I’m back, and for the first time in what feels like forever, I’ve finally had a chance to slow down. My latest trip to Baltimore wrapped up on Tuesday, marking the official end of what has been a truly chaotic 5 weeks of travel.
 
-I'm sure I'll make some posts about my trip from this last month (he says, naively, making another post not talking about that one), but here's a quick summary of why I was so exhuasted. I spent Christmas visiting my family in North Carolina, which was great to see everyone. 
-After that I went back to Indy for a few days, then started my month long adventure consisting of
--1 week in California visiting my girlfriend (Santa Cruz, San Franciso
--2 weeks in the UK (mostly work, running around Eastern England)
--1 week in Austria visiting a friend (Vienna, Graz)
+Here’s the whirlwind summary:
 
-So to top all that off with a trip to Baltimore upon my return after being gone for a month was exhasting, but it's over. When I got back yesterday, I started thinking about organization, optimization, and work flow from my desktop out of my home office.
+Spent Christmas in North Carolina with family (great to see everyone).
+A few days back in Indy before heading off for:
+1 week in California visiting my girlfriend (Santa Cruz, San Francisco).
+2 weeks in the UK for work (lots of running around Eastern England).
+1 week in Austria visiting a friend (Vienna, Graz).
+So, naturally, the perfect way to follow up a month of near-constant travel was... yet another trip to Baltimore.
 
-Obviously with my month on the road, it wasn't an optimal working setup, but I travel with my portable monitor so it was nice to have that for my trip (until I broke it sleepwalking.... different story). The efficiency you get out of a second screen is unmatched and I highly recommend it for anyone who doesn't work out of the same desk all the time. Even if it's just for your home setup.
+After all that, I got home yesterday and immediately started thinking about organization, optimization, and workflow efficiency. Because as much as I enjoy traveling, my on-the-go setup has been far from ideal—especially after accidentally breaking my portable monitor while sleepwalking (yes, another story for another time).
 
-I wanted to take this post to talk about how I set myself up efficiently with how I structure my computer and my workflow and the tools I use to make everything go as efficiently as possible. Maybe I'll turn this into a better organized post or guide one day. Maybe I can title this post "How To Organize Your Computer to be More Efficient" for extra clicks...
+That’s what today’s post is about: how I structure my computer, my workflow, and the tools I use to keep everything running smoothly. Maybe this turns into a proper guide one day. Maybe I shamelessly title it “How to Organize Your Computer to Be More Efficient” for the clicks. Who knows.
 
-So here's a summary of the different tools I use on a daily basis and what my recent restructuring has told me about my workflow, along with tips and continued improvements I'm making. For some background, as a consultant, I need to be easily able to pull documents, information, and web pages within a moment's notice once my brain fires on what I need to do, so let's dive in! 
+But for now, let’s dive in to the tools I use on a daily basis to keep myself running smoothly.
 
-1.) Google Chrome Bookmarks
+#1.) Google Chrome Bookmarks
 If you're not using these already, you really need to start. Not only does bookmarking a link give you one-click access to your most utilized pages, but if you clear your history, you can type in the bookmark name up top in a pinch, which is handy for my brain a lot of the time. I have my work computer structured by my different projects/base/essential sites in different folders so I use that at least everyday.
 Personal Computer Bookmarks Bar Layout: ![image](https://github.com/user-attachments/assets/bb4e7f94-5aa7-4b73-a2e7-9c533c504f0d)
 
-I'm also interested in diving more into utilizing tab groups in Chrome, which are pretty much the ability to pull up multiple tabs at once with one click. Cool right? This also allows you to keep them organized and you can close the entire tab group and re-open it with a single click. My previous execution of this failed because I opened a bunch of client sites at once and they all used the same authentication and errored out over each other... So tbd on this one's effectiveness for me.
+I'm also interested in diving more into utilizing tab groups in Chrome, which are pretty much the ability to pull up multiple tabs at once with one click. Cool right? This also allows you to keep them organized and allows you to close the entire tab group and re-open it with a single click, pretty much saving a set of tabs together. My previous execution of this failed because I opened a bunch of client sites at once and they all used the same authentication and errored out over each other... So tbd on this one's effectiveness for me, but I see the potential again I think.
 
-2.) Remote Desktop Manager
-Holy god this one is literally a miracle for me. We have soo many different clients to connect to and keeping track of all of those as different IP's and passwords and locations is a pain in the butt. While other people while probably use this tool _actually_ effectively, I use it just to dump the IP and location and access instructions for each site which greatly streamlines the process of accessing multiple sites at once.
+#2.) Remote Desktop Manager
+Holy god this one is literally a miracle for me. We have soo many different clients to connect to and keeping track of all of those as different IP's and passwords and locations is a pain in the butt. While other people while probably use this tool _actually_ effectively, I use it just to dump the IP and description for each site which greatly streamlines the process of accessing multiple sites at once. You can have multiple RDP's open inside of RDP manager so they aren't all in seperate RDP windows which is awesome, since we typically have multiple sites open at once anyway.
 ![image](https://github.com/user-attachments/assets/f3455863-a598-4b28-9ede-0b2a03667289)
 
-3.) Outlook Efficiency
-I think I could do a whole post on how I manage my outlook. The big thing I've started doing recently is filtering emails as soon as they hit my inbox. This has made a massive improvement for me, because although it takes a bit of work up front, I can take some time to review the open items I still need to do based on what's in that folder. If I don't have an email for a specific task, I will forward the email to myself so it shows up where I can see it, which is nice.
+#3.) Outlook Efficiency
+I think I could do a whole post on how I manage my Outlook. The big thing I've started doing recently is **filtering emails as soon as they hit my inbox**. This has made a massive improvement for me, because although it takes a bit of work up front, I can take some time to review the open items I still need to do based on what's in that folder. If I don't have an email for a specific task, I will forward the email to myself so it shows up where I can see it, which is nice. It's also good to get that lil' dopamine hit of moving the email into a folder to show the task is completed.
 
-I also have my folders filtered by project, which is great for easy acccess to project information in a pinch. I am realizing I have some cross-over so some items aren't in the folders I'd expect them to be, so that needs to be ironed out. I've also got a couple other folders, such as "Helpful Emails", "Template Emails to Send", and some automatic filters that take certain things out of my inbox so I don't have to manually move them.
+I also have my Outlook folders filtered by project, which is great for easy acccess to project information in a pinch. I am realizing I have some cross-over so some items aren't in the folders I'd expect them to be, so that needs to be ironed out, but worst case, the information is in one of two folder. I've also got a couple other folders, such as "Helpful Emails", "Template Emails to Send", and some automatic filters that take certain things out of my inbox so I don't have to manually move them.
 
 > Looking at you, all of the sales emails I get for projects I will never be involved in
 
 The auto-filter rules also have a lot of potential in terms of optimizing important emails you don't have to read right this instance, like filtering product release notes, or non-essential email alerts to different folders where you can review them later if needed.
 
-4.) To-Do List: Sticky Notes/OneNote
-As I began my consulting career, I found myself taking numerous notes about every single little detail, which overall may have enhanced my learning, but I've never actually revisited. I do revisit code snippets, old project setup, and functionality, but none of that is really done through OneNote. I use it as a sort of initial thought dump/landing page, and keep a centralized "To Do" list of everything that I can think of to do. 
+#4.) To-Do List: Sticky Notes/OneNote
+As I began my consulting career, I found myself taking notes about every single detail, which overall may have enhanced my learning, but I've never actually revisited. I do revisit code snippets, old project setup, and functionality, but none of that is really done through OneNote. I use it as a sort of initial thought dump/landing page for meeting notes, and keep a centralized "To Do" list of everything that I can think of. This also keeps a task list of "nice things to do", which is non-essential work I can do to improve my own organization, or give time back to optimizing other resources for customers (IE: A Guide on how XYZ works) 
 
 I keep a more (wow I just learned how you can insert emojis on accident 🐤) daily sort of list on my Stick Notes App on my desktop to monitor. When I'm at home, I dump, similar to my sticky notes app, everything I need to get done, then organize it by importance and finish what I need to do. I think I've found a structure that works well for me here.
 
-5.) Basic Windows File Structure/Folder Organization
+#5.) Helpful Customer Handouts Folder
+I would be amiss to not discuss this folder as it has literlly become my world. Everytime I start a new project, the list of resources I provide for a customer grows. Partially as I realize more relevant information for what the customer is looking for, but additionally because I build resources as I need them. An example of a few documents I've created over the past year to help out customers (and bill for some time due to the operation of these tasks)
+-A Guide of how to navigate our web interface and helpful tabs
+-An excel sheet to calculate inventory variance and assist with the inventory process
+-Process documentation
+-System Options/Parameters required to make certain changes
+
+Within my industry of consulting, our projects have life cycles of 9-12 months. This leaves a lot of room for variety, but a lot of the essentials are the same between projects for functionality and fundmementals. The more time I spend completing certain tasks, I realize certain information IS repeatable and that we need tools to better support our customers. Since my mind is geared for this and I can just drop that document to a customer the following time it is relevant, I'm happy to type up that solution for the first customer. I expect this folder to continue to grow and I hope to standardize that for my co-workers too to help us all impliment better projects.
+
+#6.) Basic Windows File Structure/Folder Organization
 While I feel as though my work file paths and locations are fairly structured behind different folders, I realized my desktop is extremely poorly optimized. I can still get exactly what I need when I need it from where, but it often takes clicking through several folders to get there. Because I'm always plugging/unplugging my computer, working on a portable monitor, and never on the same setup in terms of screen orientation, I don't really use my desktop, like EVER.
 
 Which is crazy to admit. I have pretty much everything I need either on my task bar, on the search bar, bookmarked in Chrome, or in a folder somewhere. So I've revamped my home screen this past week to actually have specific shortcut folder I always use pinned to quick access and present on my home screen, so we'll see how it helps. I feel as though I'm always working with probably like 10 different apps open, so my homescreen is never visible hence the problem.
 
-6.) Shortcuts/Automation
+#7.) Shortcuts/Automation
+
+
 ![image](https://github.com/user-attachments/assets/d2d6aef0-1c2e-40c0-afd4-9094490ae104)
 
 Now, the real reason for this post is what I spent several hours today working on, automation and efficient improvements. I realized I've been slowly modifying my systems to work for me and I came to the conclusion that there are a ton of different commands that I'm using ALL the time. For example, a basic SQL select statement where I always join the same two tables together, like as follows.
@@ -75,5 +87,3 @@ That's everything I've got in terms of how I enable myself to do my job better/f
 
 Here's to working less and getting paid the same amount! (Hopefully)
 -nhg
-
-
