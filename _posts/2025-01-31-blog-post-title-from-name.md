@@ -1,5 +1,5 @@
 ---
-title: "Organization and Automation for Working - Tips and Tricks"
+title: "Wokflow Organization - Tips and Tricks + Beginning Automation"
 date: 2025-01-31
 tags: ["anecdotes", "travel"]
 ---
@@ -10,9 +10,9 @@ Here’s the whirlwind summary:
 Spent Christmas in North Carolina with family (great to see everyone).
 A few days back in Indy before heading off for:
 
-        1.) 1 week in California visiting my girlfriend (Santa Cruz, San Francisco).   
-        2.) 2 weeks in the UK for work (lots of running around Eastern England).   
-        3.) 1 week in Austria visiting a friend (Vienna, Graz).   
+1.) 1 week in California visiting my girlfriend (Santa Cruz, San Francisco).   
+2.) 2 weeks in the UK for work (lots of running around Eastern England).   
+3.) 1 week in Austria visiting a friend (Vienna, Graz).   
 
 So, naturally, the perfect way to follow up a month of near-constant travel was... yet another trip to Baltimore.
 
@@ -55,10 +55,10 @@ I keep a more (wow I just learned how you can insert emojis on accident 🐤) da
 ### 5️⃣ Helpful Customer Handouts Folder 
 I would be remiss to not discuss this folder as it has literally become my world. Everytime I start a new project, the list of resources I provide for a customer grows. Partially as I realize more relevant information for what the customer is looking for, but additionally because I build resources as I need them. An example of a few documents I've created over the past year to help out customers (and bill for some time due to the operation of these tasks)
 
-    -A Guide of how to navigate our web interface and helpful tabs.   
-    -An excel sheet to calculate inventory variance and assist with the inventory process.   
-    -Process documentation.   
-    -System Options/Parameters required to make certain changes.   
+-A Guide of how to navigate our web interface and helpful tabs.   
+-An excel sheet to calculate inventory variance and assist with the inventory process.   
+-Process documentation.   
+-System Options/Parameters required to make certain changes.   
 
 Within my industry of consulting, our projects have life cycles of 9-12 months. This leaves a lot of room for variety, but a lot of the essentials are the same between projects for functionality and fundamentals. The more time I spend completing certain tasks, I realize certain information IS repeatable and that we need tools to better support our customers. Since my mind is geared for this and I can just drop that document to a customer the following time it is relevant, I'm happy to type up that solution for the first customer. I expect this folder to continue to grow and I hope to standardize that for my co-workers too to help us all impliment better projects.
 
