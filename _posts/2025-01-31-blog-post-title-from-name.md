@@ -96,5 +96,7 @@ The next step is to look into some software that I can go directly to certain br
 
 That's everything I've got in terms of how I enable myself to do my job better/faster. I'm excited to see the gain I'm going to get from TextBlaze from shorthand to text inserts to pulling up formatting for different sql queries as I get started.
 
+I'd love to hear what tools you use to enable yourself to work more efficiently! Feel free to drop a comment down below.
+
 Here's to working less and getting paid the same amount! (Hopefully)
 -nhg
