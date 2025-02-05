@@ -40,7 +40,7 @@ But, the available concepts/efficiencies to pursue behind this tool are
 
 ### Bring 'er Home, Scotty
 
-In myfirst post "Why Do I Blog" (linked here if you haven't read it yet) -> https://neilgrom.github.io/2025/01/23/blog-post-title-from-name.html I iterated how I'd just learned how curious I was. After completing the task above in Power Automate, I found out I _love_ learning by trial and error.
+In [my first post](https://neilgrom.github.io/2025/01/23/blog-post-title-from-name.html), I iterated how I'd just learned how curious I was. After completing the task above in Power Automate, I found out I _love_ learning by trial and error.
 
 Having a machine immediately spit back a "You got it right!" or "syntax error you goob" is a very positively infuriating, yet beneficial experience. It's learning to speak another language, and while you might not know if you're doing it 100% right, you'll definitely know when you're wrong.
 
