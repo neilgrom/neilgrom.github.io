@@ -1,6 +1,6 @@
 ---
 title: "Automation Lesson 1: The Struggle"
-date: 2025-
+date: 2025-02-04
 tags: ["anecdotes", "travel"]
 ---
 
