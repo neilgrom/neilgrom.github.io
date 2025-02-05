@@ -9,9 +9,10 @@ permalink: /changelog/
 ## Functionality Improvements and Software Goals
 - ~~Create Change Log~~ 1/23/2025
 - ~~Get Blog Archive filtering multiple items~~ 1/24/2025
+- Add a comment section using https://utteranc.es/ (inspired by Chad Baldwin)
 - Get Linked Tag functionality to work + Sort
 - Add a "Count" of how many posts are in each menu by link
-- Add a "Return to Home" button
+- ~~Add a "Return to Home" button~~
 - Insert a resume section + Link
 - Optimize Homescreen Navigation Bar
 - Modify layout of page setup, guessing this is for mobile users currently
