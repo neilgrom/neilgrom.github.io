@@ -4,7 +4,7 @@ date: 2025-02-04
 tags: ["anecdotes", "travel"]
 ---
 
-# What I did this Week
+# Automation Lesson 1: The Struggle
 
 As I'm typing this, I started this post by using some shortcuts I'd setup from TextBlaze to populate some rather long, boring info for the post sorting. This will definitely be something that's going to save me some time going forward.
 
