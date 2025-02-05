@@ -28,7 +28,11 @@ However, I can now proudly say I wrote my first script! It's not perfect, but th
 
 ### So Why Does This Matter?
 
-Great question. At the moment, it really doesn't. Right now, I am a little baby bird desperately holding my mouth up to the sky begging for any information to be regurgitated into my mouth. But, the available concepts/efficiencies to pursue behind this tool are
+Great question. At the moment, it really doesn't. Right now, I am a little baby bird desperately holding my mouth up to the sky begging for any information to be regurgitated into my mouth. 
+
+![Alt Text](/Assets/BabyBirdsGpt.gif)
+
+But, the available concepts/efficiencies to pursue behind this tool are
 
 1️⃣ **Automating tedious tasks = more time for real work.**  
 2️⃣ **Scalability:** If I can automate **time tracking**, what else can I optimize?  
