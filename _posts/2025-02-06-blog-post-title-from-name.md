@@ -14,7 +14,7 @@ Just had a great day at work (From 🏠) so I wanted to take the chance to talk 
 4️⃣- 25% Strategic Advisor
 (5️⃣) - 15% Concentrated power of will
 
-![image](https://github.com/user-attachments/assets/a8004eb8-aaf9-4dce-b6e5-ef754a122b4b)
+<img src= "https://github.com/user-attachments/assets/f2da7789-311c-4890-a9fd-28a263a52ffc" height="250">
 
 
 Day to day, my role fluctuates heavily depending on whether I’m working remotely or visiting clients on-site in the US or UK—about 25% of the time. Early on, I was offered a unique opportunity to lead UK projects. As a career move (and a free trip to Europe, let’s be real), it made perfect sense.
@@ -27,7 +27,8 @@ Additionally, I've been overhauling our internal documentation for standized wor
 
 I can't say that I love my job because I love my company, but I definitely feel like I owe it to not just myself, but my customers paying for my time to deliver the best product possible. But my job is pretty sweet too.
 
-![image](https://github.com/user-attachments/assets/6d79a075-486d-4d47-b0e9-1f45535b5cd1)
+<img src="https://github.com/user-attachments/assets/6d79a075-486d-4d47-b0e9-1f45535b5cd1" height="500">
+
 ---
 # So What Software Do You Consult On?
 
