@@ -4,4 +4,4 @@ date: 2025-02-07
 tags: ["anecdotes", "travel"]
 ---
 
-Test for email alerts.
+Chainging things to see if it hits the xml in the .posts file!!!
