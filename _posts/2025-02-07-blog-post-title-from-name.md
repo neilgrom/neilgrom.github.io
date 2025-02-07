@@ -4,4 +4,4 @@ date: 2025-02-07
 tags: ["anecdotes", "travel"]
 ---
 
-Chainging things to see if it hits the xml in the .posts file!!!
+Testing changes now that I've subscribed for an existing post.
