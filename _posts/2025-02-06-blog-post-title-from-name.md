@@ -9,9 +9,17 @@ tags: ["anecdotes", "travel"]
 Just had a great day at work (From 🏠) so I wanted to take the chance to talk about what I'm currently working on and a bit of what my job is like. As a software consultant, I'd like to think I have 4 different roles I assume throughout the project that all culminate in getting the customer live and share fairly equal parts.
 
 1️⃣- 25% Teacher
+
+
 2️⃣- 25% Navigating a bunch of parameters (check boxes) and testing what works for what they need
-3️⃣- 25% SQL Database Resoures
+
+
+3️⃣- 25% SQL Database Resources
+
+
 4️⃣- 25% Strategic Advisor
+
+
 (5️⃣) - 15% Concentrated power of will
 
 <img src= "https://github.com/user-attachments/assets/f2da7789-311c-4890-a9fd-28a263a52ffc" height="250">
