@@ -10,7 +10,7 @@ permalink: /changelog/
 - ~~Create Change Log~~ 1/23/2025
 - ~~Get Blog Archive filtering multiple items~~ 1/24/2025
 - Look to add email or text notifications that people can sign up for to receive alerts when new posts are created
-- Add a comment section using https://utteranc.es/ (inspired by Chad Baldwin)
+- ~~Add a comment section using https://utteranc.es/ (inspired by Chad Baldwin)~~ (Recommended by jhm, resolved 2/6/2025)
 - Get Linked Tag functionality to work + Sort
 - Add a "Count" of how many posts are in each menu by link
 - ~~Add a "Return to Home" button~~
