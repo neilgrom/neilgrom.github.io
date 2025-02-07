@@ -1,6 +1,6 @@
 ---
-title: ""
-date: 2025-
+title: "Test Post Emails"
+date: 2025-02-15
 tags: ["anecdotes", "travel"]
 ---
 
