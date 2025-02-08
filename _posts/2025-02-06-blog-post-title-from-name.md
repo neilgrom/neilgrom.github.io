@@ -25,15 +25,31 @@ Just had a great day at work (From 🏠) so I wanted to take the chance to talk 
 <img src= "https://github.com/user-attachments/assets/f2da7789-311c-4890-a9fd-28a263a52ffc" height="250">
 
 
-Day to day, my role fluctuates heavily depending on whether I’m working remotely or visiting clients on-site in the US or UK—about 25% of the time. Early on, I was offered a unique opportunity to lead UK projects. As a career move (and a free trip to Europe, let’s be real), it made perfect sense.
+Day to day, my role fluctuates heavily depending on whether I’m working remotely or visiting clients on-site in the US or UK. Early on, I was offered a unique opportunity to lead UK projects. As a career move (and a free trip to Europe, let’s be real), it made a lot of sense. 
 
-Why today went so well was because I've gotten to assist in all of the things related to touching our product in the UK, including some strategic planning and sales support. Today, I gave a nearly 3-hour product demo—a high-stakes moment since we’re trying to win the customer back. 
+Today was a great day because it was a culmination of a lot of my cross-functional work I've been doing. Being the main point of contact in the UK for our product, I've been able to get involved in a lof different elements of the buisness, including helping to support our sales team and getting involved in my first real sales cycle. Even though I didn't see the whole process, I was brought in to do a few product demos with today's being nearly 3 hours long.
 
-It’s always a challenge to balance showing off the tech, answering live questions, and making sure the customer actually sees the value without getting too technical. But when it clicks? That’s what makes consulting exciting. It's also nice to be able to sell the project with myself as the inevitable consultant.
+It's really interesting to think about switching from consulting, where you're telling WHY things work - vs. sales, where it's more about the HOW and leaving out some detail on the why. But this is what makes it an interesting pitch for me looking to transition into sales. I've already got the technical knowledge, which is what alot of sales people lack, and I am already usesd to being customer-facing as a consultant. 
 
-Additionally, I've been overhauling our internal documentation for standized workflows over the past few days and got a done of that done today, so I'm exicted to get some tools done for the team to work more efficiently and deliver a better product for our customers at the end of the day. 
+This could make me quite the powerhouse if I can leverage the years of knowledge I've built on the product and even though my knowledge might not as in-depth as it could be for some backend stuff for how our product works, I don't really want to. I had a conversation with my manager recently asking what it would take for me to become a senior consultant, personally believing I've checked a lot of those boxes, even if it's rare for someone my age to have that title.
 
-I can't say that I love my job because I love my company, but I definitely feel like I owe it to not just myself, but my customers paying for my time to deliver the best product possible. But my job is pretty sweet too.
+While she agreed I'd accomplished a lot, she pointed to understanding the product debugs for further knowledge about how the system is working when errors are produced. It was a weird moment for me because I responded in turn by telling here I wasn't really that interested about that.
+
+That's right, I'd told my manager _to her face_ that I didn't really want to do that. And honestly, I'm glad that I did, because I really don't have an interest in learning about the debugs. I feel as though threre are enough other instances of the product I can continue to learn and grow in that I AM genuinely excited about, one of which areas is custom report development with the second being implimentation process standardization and developing tools to assist in that.
+
+Here are a few of the tools I've been developing/looking to develop to assist in the implimentation process and will deliver over the next few months.
+1.) Inventory Calculator based on net-variance when posting product inventory (completed)
+
+2.) Custom reporting during the implimentation phase to show customer testing benchmarks (in progress)
+
+3.) Standard import/prep for on-site testing visits including default configuration questionnaire (in progress)
+
+4.) Further script standardization and general process outlines (in progress)
+
+5.) Automation to streamline product operations for consultants (not really started, more just a curiousity)
+
+
+And looking at this list and the things I can accomplish on it, I'm excited to do everything on here to not only help myself (mostly), but to help the team as well. I think this is a lot more authentic way of approaching that next level of consulting and if I can do all this and still not be ready, maybe sales will call my name sooner rather than later.
 
 <img src="https://github.com/user-attachments/assets/6d79a075-486d-4d47-b0e9-1f45535b5cd1" height="500">
 
