@@ -29,18 +29,22 @@ Day to day, my role fluctuates heavily depending on whether I’m working remote
 
 Today was a great day because it was a culmination of a lot of my cross-functional work I've been doing. Being the main point of contact in the UK for our product, I've been able to get involved in a lof different elements of the buisness, including helping to support our sales team and getting involved in my first real sales cycle. Even though I didn't see the whole process, I was brought in to do a few product demos with today's being nearly 3 hours long.
 
-It's really interesting to think about switching from consulting, where you're telling WHY things work - vs. sales, where it's more about the HOW and leaving out some detail on the why. But this is what makes it an interesting pitch for me looking to transition into sales. I've already got the technical knowledge, which is what alot of sales people lack, and I am already usesd to being customer-facing as a consultant. 
+It's really interesting to think about switching from consulting, where you're telling WHY things work - vs. sales, where it's more about the HOW and leaving out some detail on the why. But this is what makes it an interesting pitch for me looking to transition into sales. I've already got the technical knowledge, which is what alot of sales people lack, and I am already used to being customer-facing as a consultant. 
 
 This could make me quite the powerhouse if I can leverage the years of knowledge I've built on the product and even though my knowledge might not as in-depth as it could be for some backend stuff for how our product works, I don't really want to. I had a conversation with my manager recently asking what it would take for me to become a senior consultant, personally believing I've checked a lot of those boxes, even if it's rare for someone my age to have that title.
 
-While she agreed I'd accomplished a lot, she pointed to understanding the product debugs for further knowledge about how the system is working when errors are produced. It was a weird moment for me because I responded in turn by telling here I wasn't really that interested about that.
+While she agreed I'd accomplished a lot, she pointed to product debugging as the next level of expertise. But I told her—straight up—that I wasn’t really interested in that. And honestly? I’m glad I did.
 
-That's right, I'd told my manager _to her face_ that I didn't really want to do that. And honestly, I'm glad that I did, because I really don't have an interest in learning about the debugs. I feel as though threre are enough other instances of the product I can continue to learn and grow in that I AM genuinely excited about, one of which areas is custom report development with the second being implimentation process standardization and developing tools to assist in that.
+I really don't have an interest in learning about the debugs tbf. This moment gave me similar vibes to what I'd realied when I finally left Civil Engineering - that I couldn't be good at something I don't want to do. I remember looking at my collegue - your stereotypical engineer - and thinking "you're always going to be better at this than me, huh?" Maybe it sounds selfish, but I needed to hear myself say those words to realize I was fighting on the wrong turf.
 
-Here are a few of the tools I've been developing/looking to develop to assist in the implimentation process and will deliver over the next few months.
+It's like if you're in a video game and you're running a Speed/Dexterity build and then realize that you're trying to beat people who have focused their whole build on strength - with your strength. Doesn't really work does it?
+
+Consulting has been a great chance for me to leverage the tools I'm not just good, I'm **great** at. Even though debugging doesn't thrill me, I feel as though there are enough other areas to learn and grow in that I AM genuinely excited about - like building custom reporting tools and streamlining the implementation process. 
+
+Here are a few of the tools I've been developing/looking to develop to assist in the implementation process and will deliver over the next few months.
 1.) Inventory Calculator based on net-variance when posting product inventory (completed)
 
-2.) Custom reporting during the implimentation phase to show customer testing benchmarks (in progress)
+2.) Custom reporting during the implementation phase to show customer testing benchmarks (in progress)
 
 3.) Standard import/prep for on-site testing visits including default configuration questionnaire (in progress)
 
