@@ -1,5 +1,5 @@
 ---
-title: "Wokflow Organization - Tips and Tricks + Beginning Automation"
+title: "Workflow Organization - Tips and Tricks + Beginning Automation"
 date: 2025-01-31
 tags: ["anecdotes", "travel"]
 ---
