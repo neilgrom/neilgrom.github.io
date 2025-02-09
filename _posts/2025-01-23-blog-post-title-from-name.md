@@ -1,7 +1,7 @@
 ---
 title: "Why Do I Blog?"
 date: 2025-01-23
-tags: ["anecdotes", "travel"]
+tags: ["About Me"]
 ---
 
 # Why Do I Blog?
