@@ -1,7 +1,7 @@
 ---
 title: "A Little Less Baltimore"
 date: 2025-01-27
-tags: ["anecdotes", "travel"]
+tags: ["Travel"]
 ---
 ## A Little Less Balti"more"
 Haha get it? I tried to think of something snappy but Balti-less just felt like I was trying too hard. As of my last post, I was typing out my elation at arriving home after a long trip and have already found myself at my next jobsite, Baltimore, MD.
