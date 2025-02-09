@@ -1,7 +1,7 @@
 ---
 title: "Workflow Organization - Tips and Tricks + Beginning Automation"
 date: 2025-01-31
-tags: ["anecdotes", "travel"]
+tags: ["Organization"]
 ---
 Hey everybody! I’m back, and for the first time in what feels like forever, I’ve finally had a chance to slow down. My latest trip to Baltimore wrapped up on Tuesday, marking the official end of what has been a truly chaotic five weeks of travel.
 
