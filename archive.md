@@ -18,3 +18,9 @@ title: Blog Archive
     {% endfor %}
   </ul>
 {% endfor %}
+
+<h2>Debugging</h2>
+<p>Total tags found: {{ site.tags | size }}</p>
+{% for tag in site.tags %}
+  <p>Tag: {{ tag[0] }} has {{ tag[1] | size }} posts.</p>
+{% endfor %}
