@@ -5,8 +5,15 @@ permalink: /changelog/
 ---
 ## Change Log
 -**1/23/2025**: Began Website Design, attempted first pass at hyperlink insertion, created first post. Blew up website on accident, reset it thanks to existing data because I am a silly little boy who knows nothing of websites (yet)... was able to restore from a local copy because my commits are a mess for now. Added changelog (didn't see that one coming did you)
+
+
 -**2/06/2025**: Added comment functionality, explored adding email subscription functionality, but didn't appear to update email when new posts were created. Further testing required.
+
+
 -**2/07/2025**: Got email notifications working by properly inserting the RSS feed full time value instead of just the date, but that has added the date to the homepage and made it look ugly. Will resolve.
+
+
+-**2/09/2025**: Managed to Break the Archive trying to sort by tags. I have an old local copy I can do a restore off but not sure if I want to do that, will leave it broken for now. Removed links from homepage because i don't want to organize posts like that, want to use tags in the archive section.
 
 ## Functionality Improvements and Software Goals
 - ~~Create Change Log~~ 1/23/2025
