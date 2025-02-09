@@ -1,7 +1,7 @@
 ---
 title: "Why Long-Haul Airline Food is Timed Terribly"
 date: 2025-01-24
-tags: ["anecdotes", "travel"]
+tags: ["Travel"]
 ---
 
 ## Why Long-Haul Airline Food is Timed Terribly
