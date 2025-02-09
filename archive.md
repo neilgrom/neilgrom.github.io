@@ -6,21 +6,27 @@ title: Blog Archive
 <h1>Blog Archive</h1>
 <p>Sort by tag</p>
 
-{% assign sorted_tags = site.tags | sort %}
+{% assign all_tags = "" %}
 
-{% for tag in sorted_tags %}
-  <h2>{{ tag[0] }}</h2>  <!-- Displays the tag name -->
-  <ul>
-    {% for post in tag[1] %}
-      <li>
-        <a href="{{ post.url }}">{{ post.date | date: "%b %Y" }} - {{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+{% for post in site.posts %}
+  {% for tag in post.tags %}
+    {% unless all_tags contains tag %}
+      {% assign all_tags = all_tags | append: "," | append: tag %}
+    {% endunless %}
+  {% endfor %}
 {% endfor %}
 
-<h2>Debugging</h2>
-<p>Total tags found: {{ site.tags | size }}</p>
-{% for tag in site.tags %}
-  <p>Tag: {{ tag[0] }} has {{ tag[1] | size }} posts.</p>
+{% assign tag_list = all_tags | split: "," | uniq | sort %}
+
+{% for tag in tag_list %}
+  {% if tag != "" %}
+    <h2>{{ tag }}</h2>
+    <ul>
+      {% for post in site.posts %}
+        {% if post.tags contains tag %}
+          <li><a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }} - {{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
 {% endfor %}
