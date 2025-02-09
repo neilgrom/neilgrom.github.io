@@ -20,11 +20,16 @@ title: Blog Archive
 
 {% for tag in tag_list %}
   {% if tag != "" %}
-    <h2>{{ tag }}</h2>
-    <ul>
+    <h2 style="margin-top: 30px; font-size: 24px; font-weight: bold;">{{ tag }}</h2>
+
+    <ul style="margin-bottom: 20px; padding-left: 20px;">
       {% for post in site.posts %}
         {% if post.tags contains tag %}
-          <li><a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }} - {{ post.title }}</a></li>
+          <li style="margin-bottom: 10px;">
+            <a href="{{ post.url | relative_url }}" style="font-size: 18px; text-decoration: none; color: #007bff;">
+              {{ post.date | date: "%b %d, %Y" }} - {{ post.title }}
+            </a>
+          </li>
         {% endif %}
       {% endfor %}
     </ul>
