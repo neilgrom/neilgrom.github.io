@@ -1,7 +1,7 @@
 ---
 title: "Work From Home Update and What I Do"
 date: 2025-02-06
-tags: ["My Job"]
+tags: [My Job]
 ---
 
 # Work and Current Projects
