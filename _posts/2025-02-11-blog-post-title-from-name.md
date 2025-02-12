@@ -20,7 +20,9 @@ I wanted to make this post because the writing process has been interesting for 
 I made this as a centralized place for reflection and growth, as well as a personal journal, and to look back at fond (and fondless? it's definitely not fondle...) times. What I've learned doing this recently has been that I love learning by trial and error.
 
 Sort of like a video game, where you can get immediate feedback when you die that you weren't good enough at XYZ. Granted, not talking about Dark Souls there you masochists. I learned that while the process of growth is trying, I'm someone who likes to figure things out as they go.
-![DarkSouls](Assets/You Died Foxsouls.gif)
+
+
+![Alt Text](/Assets/You%20Died%20Foxsouls.gif)
 
 And that's where the song ties into this, [**Nostalgia by Cal Scruby**](https://www.youtube.com/watch?v=RXtqpKo87d0). This song actually stood out to me the first time for a somewhat hilarious line that I'm sure I've told my friends multiple times over.
 
