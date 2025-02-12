@@ -24,7 +24,9 @@ Sort of like a video game, where you can get immediate feedback when you die tha
 
 ![Alt Text](/Assets/You%20Died%20Foxsouls.gif)
 
-And that's where the song ties into this, [**Nostalgia by Cal Scruby**](https://www.youtube.com/watch?v=RXtqpKo87d0). This song actually stood out to me the first time for a somewhat hilarious line that I'm sure I've told my friends multiple times over.
+And that's where the song ties into this, [**Nostalgia by Cal Scruby**](https://www.youtube.com/watch?v=RXtqpKo87d0). This song is a hip hop song with a reflective, cool tone and a mellow beat in the background. It reminds me of a lot of Kota The Friends stuff, with that laid back, easy delivery talking about life.
+
+This song actually stood out to me the first time for a somewhat hilarious line that I'm sure I've told my friends multiple times over.
 
 > "Got a shawty who model for Wilhelmina, she ain't Filipina, but she feel tha p*nis"
 
