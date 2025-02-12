@@ -4,7 +4,7 @@ date: 2025-02-11 22:42:21 +0000
 tags: ["Music"]
 ---
 
-# Music ~~Mondays~~ Tuesdays: Nostalgia - Cal Scruby
+# Nostalgia - Cal Scruby
 <img src = "https://github.com/user-attachments/assets/790da8d4-674a-4d92-8de7-213f4f682f2b" height = "300">
 
 Happy Tuesday everyone! Hope you are feeling optimistic during the most okay-ish day of the week.
