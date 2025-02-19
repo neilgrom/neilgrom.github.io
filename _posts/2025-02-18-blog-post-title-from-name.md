@@ -27,10 +27,20 @@ Okay I said that I love being home and that's not an exaggeration. While my life
 How I started cooking is a story for another time, but recently I've been big into pre-cutting ingredients for other recipes and recycling past dishes into future ones! I wanted to outline the few things I've made this week and how I've leveraged some recycled ingredients and some general cooking notes.
 
 # 1.) Katsu Curry
-I've loved Chicken Katsu for as long as I can remember. Pair that with some Japanese Style curry and rice and boom, you've got a mini tasting menu of different flavors, combinations, and textures all in one. While I've always been good at making the curry, this was probably the best katsu I've ever made and here's why I think so.
+I've loved Chicken Katsu for as long as I can remember. Pair that with some Japanese Style curry and rice and boom, you've got a mini tasting menu of different flavors, combinations, and textures all in one. 
+
+While I've always been good at making the curry, this was probably the best katsu I've ever made and here's why I think so.
+
+
 1.) I pounded the chicken with a rolling pin -> Flatter, cooked more evenly, sat on pan better
+
+
 2.) I used **thighs** rather than breasts -> Smaller, easier to cook more evenly compared to different textures/sizes of chicken breast.
+
+
 3.) I used that rolling pin (don't worry, I pounded the chicken out in a bag, no sa1m0ne11a_dis3as3 here) to crush the breadcrumbs into smaller bits, allowing a more even coat
+
+
 4.) I active monitored the cooking oil temperature, and after the first batch, reduced the temperature by quite a bit.
 
 All of my cooking experience is slowly starting to culminate in general best practices and tips and tricks I'm learning that can be applied across the board. Along with a little intuition and understanding the basics lets you be flexible and I love that.
@@ -44,14 +54,20 @@ The brine definitely made a difference, as we prepped a spicier, salsa themed br
 
 For the first sauce, I made a spicy, more bbq + mango habenero based sauce with some different sauces I had laying around. For the 2nd, I did something I'm more familiar with, being a sweet soy sauce based off some teriyaki notes, chili oil, and some Bacchan's Asian BBQ Sauce (in love with this stuff recently).
 
-I made this with some oven roasted potatoes (one of my best recipes IMO) and roasted asparagus and it turned out :ok_hand:.
+I made this with some oven roasted potatoes (one of my best recipes IMO) and roasted asparagus and it turned out 👌
 
 # 2.5) Chicken Broth
-I have never really made my own broth before (minus some vegetable broth a year ago or so) and I realized I had just received a cornucopia of sweet, sweet broth guts. Using the chicken wings along with some buillon, celery, carrots, onions, and herbs, I threw that into a pot to simmer for 2hrs while skimming the fat off the top every 30 mins.
+I have never really made my own broth before (minus some vegetable broth a year ago or so) and I realized I had just received a cornucopia of sweet, sweet broth guts. 
+
+Using the chicken wings along with some buillon, celery, carrots, onions, and herbs, I threw that into a pot to simmer for 2hrs while skimming the fat off the top every 30 mins.
 
 I'll be honest, when I first tried my own veggie broth, it was **SOOOOOO** much better I literally could've drank it with a spoon. I felt the same with this. Just so much more flavor than the store bought stuff with just a little bit of effort for cheaper/the same cost? Definitely a plus.
 
-What didn't work was that I tried to use the broth veggies to make a sort of veggie soup in a blender. NOT A GOOD IDEA OH MY GOD. The vegetables (should) lose all their flavor if you simmer it for long enough so it was very bland. That and I found some little bone chewies in there so no dice on that experiment.
+What didn't work was that I tried to use the broth veggies to make a sort of veggie soup in a blender. 
+
+>NOT A GOOD IDEA OH MY GOD.
+
+The vegetables (should) lose all their flavor if you simmer it for long enough so it was very bland. That and I found some little bone chewies in there so no dice on that experiment.
 
 You gotta try if you get curious right? That's the last time I will be trying that with the de-flavorfied veggies, but more broth to come for sure.
 
@@ -60,7 +76,7 @@ I had mentioned the recycling, so here's where it begins! I've pretty much alway
 
 See, I'd saved the sweet soy sauce, which was the sweet chicken brine, just thickened with corn starch and reduced the saltiness of (yes we boiled it I'm not trying to die, again). I decided that could use a great glaze for the steak I had just picked up.
 
-With the curry already done, I made some spicy rice (chili oil, soy sauce, gochujang, chicken broth, rice -> :rice: 🧑‍🍳) since I'd run out of rice. Then, I cooked my steak in a ripping hot pan with some oil to get a golden crust.
+With the curry already done, I made some spicy rice (chili oil, soy sauce, gochujang, chicken broth, rice -> 🍚 🧑‍🍳) since I'd run out of rice. Then, I cooked my steak in a ripping hot pan with some oil to get a golden crust.
 
 I flipped it once a crust formed, added butter, mushrooms, rosemary, and a bit of that sweet soy sauce to reduce nicely. I moved the steak to the oven at 375 for 5:30mins and then added some beef broth, milk, and pepper to make an asian version of a peppercorn sauce.
 
