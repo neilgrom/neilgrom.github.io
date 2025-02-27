@@ -9,13 +9,23 @@ After a month back home, I’ve found myself back on the road in ~~The City of B
 
 Cons:
 1.) This is the **longest on-site trip** we typically take (5 days).
+
+
 2.) We fly out on a Saturday and back on a Sunday.
+
+
 3.) Early mornings working on lumber yard hours.
+
+
 4.) Days where all you want to do is crash, but you still have work to do.
 
 Pros:
 1.) My hotel is within walking distance of the city.
+
+
 2.) The project shouldn't be too bad.
+
+
 3.) Free food.
 
 Laying it out like this is interesting because people often ask how I feel about work travel. Honestly, these days, _I’m a little mixed._
