@@ -8,6 +8,7 @@ tags: [travel]
 After a month back home, I’ve found myself back on the road in ~~The City of Brotherly Love~~ Baltimore. I was both excited for and dreading this trip, and for good reason.
 
 Cons:
+
 1.) This is the **longest on-site trip** we typically take (5 days).
 
 
@@ -19,7 +20,10 @@ Cons:
 
 4.) Days where all you want to do is crash, but you still have work to do.
 
+
+
 Pros:
+
 1.) My hotel is within walking distance of the city.
 
 
