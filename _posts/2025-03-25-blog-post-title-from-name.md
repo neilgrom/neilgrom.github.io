@@ -1,4 +1,3 @@
-
 ---
 title: "Productivity vs. Presence: Finding the Balance"
 date: 2025-03-25 18:50:17 +0000
