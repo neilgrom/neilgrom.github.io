@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Self-Reflection: What's the End Goal?"
 date: 2025-04-15 21:10:53 +0000
 tags: ["Reflection"]
 ---
 
-# How AI is making me a Better Person
+# Self-Reflection: What's the End Goal?
 
 Okay, you got me. This is my self(ish)-humour trying to get all the clicks I can after coming back from another (longer than expected) hiatus. I know the Argentina experience had me removed for nearly a month, then after only 2 posts back I already don't post?
 
