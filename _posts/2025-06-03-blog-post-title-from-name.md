@@ -24,9 +24,9 @@ But that's not my thing. Too corny. However! If one of my sentences can make you
 
 I've spent 20-25 hours (total, not per week lol) writing my discussion boards for school and while they're exhausting, I've learned _so much_ about myself and my style.
 
-See, I'm an optimizer by nature. That nature and the flexibility of my current lifestyle has lead to an interesting challenge. It's a new environment and new chance to cut my teeth - and I'm way more prepared _and_ investested than my undergrad (thanks COVID). 
+See, I'm an optimizer by nature. That nature and the flexibility of my current lifestyle has lead to an interesting challenge. It's a new environment and new chance to cut my teeth - and I'm way more prepared _and_ invested than my undergrad (thanks COVID). 
 
-It feels like one of the first time in my life I've seen an objective and been able to set the bar **where** I want to. I know that's a seemingly impossible thought, but lets unpack it.
+It feels like the first time I've knowingly set my own bar for a challenge bceause I now know what _I_ want.
 
 Growing up, I got good grades because I _thought_ my parents needed me too. They wanted me to sure, but I put that on myself. In college and my first job, it felt like the same, I wanted to do good because I wanted to do good, not because I **wanted** to be there. That's the big shift this time around, I want to do this.
 
@@ -44,7 +44,7 @@ I've been told I'm taking two writing heavy classes this quarter, which makes se
 
 This isn't the end for me as a writer. I think there's an itch deep down in my brain that I scratch every once and awhile where the words flying from my fingers are exactly what I want to say. However, this is the end for the GitHub Medium (for now). 
 
-I think there's a future in which I return to writing via Substack, I thinkt that's a cool and fun place for my ideas. And maybe this will be the first time you're reading this post is over there as I'd migrate them all if I did it.
+I think there's a future in which I return to writing via Substack, I think that's a cool and fun place for my ideas. And maybe this will be the first time you're reading this post is over there as I'd migrate them all if I did it.
 
 So here's to not losing focus, but watching some part things get blurry as the things you want to do come into the picture more clearly.
 
